@@ -7,12 +7,12 @@ Some sample coursework done for the Numerical Methods in Python course (CSS 455)
    
                 http://images.slideplayer.com/32/9819343/slides/slide_3.jpg
 
-   ![alt text](http://i1142.photobucket.com/albums/n612/jetset773/oumghar%20karim-py_files_plots_zpsdgszhh1i.png)
+   ![alt text](https://raw.githubusercontent.com/karimo94/Python-Course-Work-CSS-455/master/PyPlots/oumghar%2C%20karim-py_files_plots.png)
    
 
 2. Numerical Integration (using Gauss-Legendre Quadrature and Trapezoidal Rule)
 
-   ![alt text](http://i1142.photobucket.com/albums/n612/jetset773/numintpython_zps2w16ni3c.png)
+   ![alt text](https://raw.githubusercontent.com/karimo94/Python-Course-Work-CSS-455/master/Second%20Order%20Differental%20Equations/numintpython_zps2w16ni3c.PNG)
 
 3. Initial Value Problem using Euler's Method (Energy balance model)
 
